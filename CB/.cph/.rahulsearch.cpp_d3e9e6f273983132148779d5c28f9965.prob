@@ -1,0 +1,1 @@
+{"name":"Local: rahulsearch","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/rahulsearch.cpp","tests":[{"id":1627023418351,"input":"5\n4 5 1 2 3\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/rahulsearch.cpp","group":"local","local":true}

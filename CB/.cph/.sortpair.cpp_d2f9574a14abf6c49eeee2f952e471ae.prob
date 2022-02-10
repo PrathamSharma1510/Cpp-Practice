@@ -1,0 +1,1 @@
+{"name":"Local: sortpair","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/sortpair.cpp","tests":[{"id":1627304215338,"input":"79\n4\nEve 78\nBob 99\nSuzy 86\nAlice 86","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/sortpair.cpp","group":"local","local":true}

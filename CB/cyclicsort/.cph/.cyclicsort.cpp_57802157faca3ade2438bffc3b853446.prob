@@ -1,0 +1,1 @@
+{"name":"Local: cyclicsort","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/cyclicsort/cyclicsort.cpp","tests":[{"id":1630926516756,"input":"5\n1 3 2 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/cyclicsort/cyclicsort.cpp","group":"local","local":true}

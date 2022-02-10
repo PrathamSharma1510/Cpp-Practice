@@ -1,0 +1,1 @@
+{"name":"Local: palidrome","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/LinkList/palidrome.cpp","tests":[{"id":1630244617557,"input":"5\n1 2 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/LinkList/palidrome.cpp","group":"local","local":true}

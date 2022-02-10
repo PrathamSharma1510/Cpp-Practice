@@ -1,0 +1,1 @@
+{"name":"Local: bstwithArray","url":"/Users/prathamsharma/Desktop/Languages/demo.c/binarytree/bstwithArray.cpp","tests":[{"id":1636999222602,"input":"1\n5\n-10 -3 0 5 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/binarytree/bstwithArray.cpp","group":"local","local":true}

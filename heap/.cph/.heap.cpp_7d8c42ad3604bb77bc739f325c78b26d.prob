@@ -1,0 +1,1 @@
+{"name":"Local: heap","url":"/Users/prathamsharma/Desktop/Languages/demo.c/heap/heap.cpp","tests":[{"id":1640675462781,"input":"5\n10 21 34 22 23","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/heap/heap.cpp","group":"local","local":true}

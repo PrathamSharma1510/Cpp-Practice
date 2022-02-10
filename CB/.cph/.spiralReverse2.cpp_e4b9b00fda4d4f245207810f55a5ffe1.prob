@@ -1,0 +1,1 @@
+{"name":"Local: spiralReverse2","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/spiralReverse2.cpp","tests":[{"id":1626243565897,"input":"4 4\n11 12 13 14\n21 22 23 24\n31 32 33 34\n41 42 43 44","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/spiralReverse2.cpp","group":"local","local":true}

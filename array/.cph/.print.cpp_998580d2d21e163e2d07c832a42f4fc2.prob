@@ -1,0 +1,1 @@
+{"name":"Local: print","url":"/Users/prathamsharma/Desktop/Languages/demo.c/array/print.cpp","tests":[{"id":1624395777756,"input":"6\n1 0 5 4 6 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/array/print.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: stlago","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/stlago.cpp","tests":[{"id":1626423082642,"input":"1 \n3\n10 20\n12 15\n20 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/stlago.cpp","group":"local","local":true}

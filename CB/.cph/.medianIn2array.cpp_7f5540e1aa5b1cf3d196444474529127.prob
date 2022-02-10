@@ -1,0 +1,1 @@
+{"name":"Local: medianIn2array","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/medianIn2array.cpp","tests":[{"id":1626278350651,"input":"5\n1 3 5 7 9\n2 4 6 8 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/medianIn2array.cpp","group":"local","local":true}

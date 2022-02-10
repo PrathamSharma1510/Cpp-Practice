@@ -1,0 +1,1 @@
+{"name":"Local: spiralReverce","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/spiralReverce.cpp","tests":[{"id":1626241494572,"input":"3 5\n1 2 3 4 1\n5 6 7 8 2\n9 1 2 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/spiralReverce.cpp","group":"local","local":true}

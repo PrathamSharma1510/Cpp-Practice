@@ -1,0 +1,1 @@
+{"name":"Local: firstoccur","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/recursion/firstoccur.cpp","tests":[{"id":1627675338382,"input":"5\n2 1 3 1 1\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/recursion/firstoccur.cpp","group":"local","local":true}

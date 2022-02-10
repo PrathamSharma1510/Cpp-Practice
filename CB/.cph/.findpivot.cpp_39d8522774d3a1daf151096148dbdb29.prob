@@ -1,0 +1,1 @@
+{"name":"Local: findpivot","url":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/findpivot.cpp","tests":[{"id":1627026152692,"input":"4\n30 40 20 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/prathamsharma/Desktop/Languages/demo.c/CB/findpivot.cpp","group":"local","local":true}
